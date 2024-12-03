@@ -25,6 +25,7 @@ java -jar target/websocket-java-0.0.1-SNAPSHOT.jar
 ### 5. Connecting to http://localhost:8080 using your browser
 
 ### DEMO
+![image](https://github.com/user-attachments/assets/52f62e65-e236-49e9-b6c6-b2b4ae449721)
 
 ## Authors
 
